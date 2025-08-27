@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/rawhttp
 
-go 1.18
+go 1.21
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
@@ -10,7 +10,7 @@ require (
 	github.com/khulnasoft-lab/stringsutil v0.0.3
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/remeh/sizedwaitgroup v1.0.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	golang.org/x/net v0.17.0
 )
 
